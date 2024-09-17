@@ -13,7 +13,7 @@ I hold a PhD in Computational Nanomaterials from Karlsruhe Institute of Technolo
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtelewa&theme=chartreuse-dark&show_icons=true)
 -->
 
-## ⚒️ **The Tech Stack**
+## **Tech Stack**
 
 ### Programming Languages
 
