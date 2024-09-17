@@ -9,6 +9,10 @@ I hold a PhD in Computational Nanomaterials from Karlsruhe Institute of Technolo
 <a target="_blank" href="https://www.linkedin.com/in/mtelewa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
 <br>
 
+<!--
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtelewa&theme=chartreuse-dark&show_icons=true)
+-->
+
 ## ⚒️ **The Tech Stack**
 
 ### Programming Languages
